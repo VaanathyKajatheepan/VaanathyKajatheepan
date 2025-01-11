@@ -27,7 +27,7 @@ I’m pursuing my Master of Data Analytics at the University of Niagara Falls, C
 I once visualized a dataset with over 250,000 records, and it felt like solving a giant puzzle—data analytics truly is my happy place!
 
 ✨ **Highlighted Projects**  
-- 📊 **[Superstore Dashboard](https://github.com/vaanathykaja/superstore-dashboard):** Analyzed and visualized sales and shipping trends for a retail dataset.  
-- 🩺 **[Heart Disease Prediction](https://github.com/vaanathykaja/heart-disease-analysis):** Identified key risk factors for heart disease using the BRFSS dataset.  
-- 💼 **[Business Optimization](https://github.com/vaanathykaja/business-optimization):** Developed linear programming models to maximize business profits.
+- 📊 **[Superstore Dashboard](https://github.com/VaanathyKajatheepan/Superstore-Dashboard):** Analyzed and visualized sales and shipping trends for a retail dataset.  
+- 📈 **[Sales Data Analysis](https://github.com/VaanathyKajatheepan/Sales-Dashboard):** Identified key factors for sales growth.  
+- 💼 **[Canada's socio Economic Analysis](https://github.com/VaanathyKajatheepan/Canada-s-socio-Economic-Dashboard):** Developed an analysis based on Canada's socio economic factors.
 
