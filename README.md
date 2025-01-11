@@ -24,7 +24,7 @@ I’m pursuing my Master of Data Analytics at the University of Niagara Falls, C
 😄 **Pronouns:** She/Her  
 
 ⚡ **Fun Fact**  
-I recently explored hybrid manufacturing systems, integrating additive and subtractive techniques, for an operations research project—because blending methodologies makes everything better, including coffee!  
+I once visualized a dataset with over 250,000 records, and it felt like solving a giant puzzle—data analytics truly is my happy place!
 
 ✨ **Highlighted Projects**  
 - 📊 **[Superstore Dashboard](https://github.com/vaanathykaja/superstore-dashboard):** Analyzed and visualized sales and shipping trends for a retail dataset.  
